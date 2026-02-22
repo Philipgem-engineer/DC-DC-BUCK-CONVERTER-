@@ -2,8 +2,8 @@
 This reposistory containts a schematic and PCB design of a A DC DC BUCK CONVERTER that steps down voltage from 10.8 V-19.8 V to 5 V or 3V3.
 
 ##  FEATURES
-- INPUT VOLTAGE : 10-8 - 19.8 V
-- OUTPUT VOLTAGE: 5 V / 3V3 (Can ve set through solder jumper)
+- INPUT VOLTAGE : 10.8 - 19.8 V
+- OUTPUT VOLTAGE: 5 V / 3V3 (Can be set through solder jumper)
 - OUTPUT CURRENT: 3 A
 - High Efficiency up to 95%
 - System Protected by Overcurrent Limiting, Overvoltage Protection and Thermal Shutdown
